@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "notes": "KartCaster 2.0.0 baseline — complete Windows runtime with production updater trust.",
+  "pub_date": "2026-08-04T05:23:18Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDFKV1YxVEFEdXZPZ3Y3Q0pmdXUxTWxuem16dDNRS2w5a1ZNcDVkUDVHK1VPUFNwZDlFU2tpRkVQSEttdjBFUUN1QUlIVnlUUVdPYXBEdnBseGlCUndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODE1NzUyCWZpbGU6S2FydENhc3RlciAyXzIuMC4wX3g2NC1zZXR1cC5leGUKa2JzQUVxK3d4MkJYQmNSTkw3S0dvQVlvenMzVkVZa3ppOXNqd25xOHQ4TG5DcGpGdFFvS25pWmN3Rnd3ZVErTkZLWnNNS00vOUJJbVFmYTFoMzRVQWc9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.0.0/KartCaster.2_2.0.0_x64-setup.exe"
+    }
+  }
+}
