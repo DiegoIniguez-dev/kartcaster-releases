@@ -1,11 +1,11 @@
 {
-  "version": "2.0.1",
-  "notes": "KartCaster 2.0.1 \u2014 first production update from 2.0.0.",
-  "pub_date": "2026-08-04T07:16:28Z",
+  "version": "2.1.0",
+  "notes": "KartCaster 2.1.0 \u2014 Caster Mixer (Remix): multi-select voicepacks, one speaker at a time. Includes signed auto-updater.",
+  "pub_date": "2026-08-10T20:25:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZCtmVUxxS3M3R0Vnb3kyZ0tSY3VCK1o1TXFWUTZsQTUyRzFhbUd1dXFTTW5iRElFUi9nZk1vVCtBWnF4Zm9rQUI4aDVNSkVldFIySi81SmkvZXhBanc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODI3Njk3CWZpbGU6S2FydENhc3RlciAyXzIuMC4xX3g2NC1zZXR1cC5leGUKTjJjWStjYmQ1WkhGNXc2bUs0RDFpQ2FlQzF4aWVSL2lFY3JwNG44VW8vN0hvd2V1eFhFMHJkcElFT2hCME12eVFXVkU2TWI3SUt1RXJhSkVRWHllQXc9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.0.1/KartCaster.2_2.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDlsU1VFTDRKZytGdHdBeTUxTDFwN0YyK2l6bUp4S3htSUh5Ui8xQXVzQ2RsdmJ3S0F3eFhMU0pielBNbHdIaENUSDh1alVZTm5JL01JNlkzUXJ1d1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzkzNDc2CWZpbGU6S2FydENhc3RlciAyXzIuMS4wX3g2NC1zZXR1cC5leGUKTDk0QlhTL296VlJlM3orWTZYRjlnRUdrYXRTV2xXSGN4bHIxWTlzZVhrRjJiYmRIZDJhRHk5M3dobm9NYlo4ZU03MmNlRkhWeUVOOFhiSkQ2MlVMRHc9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.1.0/KartCaster.2_2.1.0_x64-setup.exe"
     }
   }
 }
