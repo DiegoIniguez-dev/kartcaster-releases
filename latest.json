@@ -1,11 +1,11 @@
 {
-  "version": "2.1.0",
-  "notes": "KartCaster 2.1.0 \u2014 Caster Mixer MVP (final candidate from main).",
-  "pub_date": "2026-08-10T21:13:47Z",
+  "version": "2.1.1",
+  "notes": "KartCaster 2.1.1 \u2014 Credits (+ Party logo by @zomrose) and Party packaging assets.",
+  "pub_date": "2026-08-14T19:46:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDBkUGljbU45UHYrdkk0OEc4T1J2S2FrYTBnLzBDek1rZGR3Zjg2cVkzZndCUkl3SWVTMzRnK3lGdHZtVm9wYmMycXd5a2hsYUUzdXlib3hjKzFiT2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk2MDE5CWZpbGU6S2FydENhc3RlciAyXzIuMS4wX3g2NC1zZXR1cC5leGUKT2plZHdPbHdOMC8yaWJNODJnY1hNM3RZNThDOVdVSGt2V3dtR0pEQjRrUGJqUk8wSGQ4WVY3MDZybUNBd0FNN1NGS2tGUjhaRHp2cEJWdnY0bVYyQ2c9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.1.0/KartCaster.2_2.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDFUQkxMTUZyNUV2dzg0dE1PTDFWRmdETXBKTlpESmpybnk3TXMrZkcwN0ptaTg3MGc4YWQvdnNKSXIwTy9uK2ZWN29EQkNYZ3JCS2J6MlF2UTBhcVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM2NzIzCWZpbGU6S2FydENhc3RlciAyXzIuMS4xX3g2NC1zZXR1cC5leGUKSU9KRmdxY2tYaDN0YVUrYldlUDM3RFhpeWczUzZmdTJEQmpTeEdmSG5haVMzNXd6T3RkMUFBZjJtRkVXUU5NcUFFSnNWSVhTbzBmTjN3MXdhUzFDQnc9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.1.1/KartCaster.2_2.1.1_x64-setup.exe"
     }
   }
 }
