@@ -1,11 +1,11 @@
 {
-  "version": "2.1.2",
-  "notes": "KartCaster 2.1.2 \u2014 Fix hall-of-mirrors on emulators (Ryujinx): LIVE excluded from screen capture; emulator windows use PrintWindow-first.",
-  "pub_date": "2026-08-16T20:08:47Z",
+  "version": "2.1.3",
+  "notes": "KartCaster 2.1.3 - Appearance (colors/fonts), Live capture hitch/GDI fix, Diagnostics ready + last Start.",
+  "pub_date": "2026-08-24T00:43:32Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDdqdDZyNjk3eFVjb3FoKzZ1Rm9XNlNtYjdEV0JOeS9xVytvUGpEOEhEQkhCRFNycXF6VGZSeGpDWStzVWJEZ25tQStJUWY3WDBLQ0w5WkRMUlN6dFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTEwMzc0CWZpbGU6S2FydENhc3RlciAyXzIuMS4yX3g2NC1zZXR1cC5leGUKa0NjaTZxcldKeUtHQWNaVUladnJva3hqbUJnTVFPb2hlTVQ2RW1Rc0wycEJJZ25mamw2SGFKUC9RUXI1SDQ5NE0rU0E5K0k0MG81SkhyczhzVkxFQVE9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.1.2/KartCaster.2_2.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDYvd05pVkx2SzNmKzlEa3RrMWtRbXpBc0ZvcGNGL1dYc2cxZWlmRXRPQzA2ZHUvc2RmZERsSWhoMHhpY0RHLzNUWHFvWVA1KzI2Z2hTUDIxU2QwUXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTMwNzA3CWZpbGU6S2FydENhc3RlciAyXzIuMS4zX3g2NC1zZXR1cC5leGUKMGhrampFaklDb2J4V2NDNjNHVS9VLzZYc2phU1RTanczQ21hZm9iTnRNWlBYL0dHeUdxT1N1bVV3SnNSYy9WSGU2UkVvOEQxdi9rM29lTzNWWnd5REE9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.1.3/KartCaster.2_2.1.3_x64-setup.exe"
     }
   }
 }
