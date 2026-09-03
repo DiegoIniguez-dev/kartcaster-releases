@@ -1,11 +1,11 @@
 {
-  "version": "2.1.3",
-  "notes": "KartCaster 2.1.3 - Appearance (colors/fonts), Live capture hitch/GDI fix, Diagnostics ready + last Start.",
-  "pub_date": "2026-08-24T00:43:32Z",
+  "version": "2.1.4",
+  "notes": "KartCaster 2.1.4 - Live stays alive if capture freezes; race key/narrator apply while live; Sunset/Midnight/Mushroom looks.",
+  "pub_date": "2026-09-03T06:28:44Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDYvd05pVkx2SzNmKzlEa3RrMWtRbXpBc0ZvcGNGL1dYc2cxZWlmRXRPQzA2ZHUvc2RmZERsSWhoMHhpY0RHLzNUWHFvWVA1KzI2Z2hTUDIxU2QwUXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTMwNzA3CWZpbGU6S2FydENhc3RlciAyXzIuMS4zX3g2NC1zZXR1cC5leGUKMGhrampFaklDb2J4V2NDNjNHVS9VLzZYc2phU1RTanczQ21hZm9iTnRNWlBYL0dHeUdxT1N1bVV3SnNSYy9WSGU2UkVvOEQxdi9rM29lTzNWWnd5REE9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.1.3/KartCaster.2_2.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZHc3Wjd6QjhLMjFkNjVJOUNxNWRPaE54bDdRSXo5c0Y3TEhQVzJwUUV6b2lKN1lYM1hERS8rTi9pUkNmMHJKSFdySjMvOWVQaHlIQWgyWTl6Tm5IZWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDE2Nzk2CWZpbGU6S2FydENhc3RlciAyXzIuMS40X3g2NC1zZXR1cC5leGUKYTU0NGI5WVBSTk95cm9rQXBwMnRZY0tua01rZlNwQU80a3VRRGlpRmdBZDBUOVRKWVE1TGNUZUk4bndySmsvYkNqTEp0bnpOZmlrRTc2TTZyMWRiQmc9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.1.4/KartCaster.2_2.1.4_x64-setup.exe"
     }
   }
 }
