@@ -1,11 +1,11 @@
 {
-  "version": "2.1.4",
-  "notes": "KartCaster 2.1.4 - Live stays alive if capture freezes; race key/narrator apply while live; Sunset/Midnight/Mushroom looks.",
-  "pub_date": "2026-09-03T06:28:44Z",
+  "version": "2.1.5",
+  "notes": "KartCaster 2.1.5 - Window capture survives mid-race title change; Remix portrait follows the speaker.",
+  "pub_date": "2026-09-04T23:16:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZHc3Wjd6QjhLMjFkNjVJOUNxNWRPaE54bDdRSXo5c0Y3TEhQVzJwUUV6b2lKN1lYM1hERS8rTi9pUkNmMHJKSFdySjMvOWVQaHlIQWgyWTl6Tm5IZWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDE2Nzk2CWZpbGU6S2FydENhc3RlciAyXzIuMS40X3g2NC1zZXR1cC5leGUKYTU0NGI5WVBSTk95cm9rQXBwMnRZY0tua01rZlNwQU80a3VRRGlpRmdBZDBUOVRKWVE1TGNUZUk4bndySmsvYkNqTEp0bnpOZmlrRTc2TTZyMWRiQmc9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.1.4/KartCaster.2_2.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDdUZDFqRHFINlk0TUVDWDJ5ejF6UndNcFZ3V2pwMHBrd3hSdUw4QTVUZkRIK08yMWtDTG5hd0ltYVFoVldSN1BBMTNnSlFMNHgzQU5zaXZkbHJmZWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTYzNzA2CWZpbGU6S2FydENhc3RlciAyXzIuMS41X3g2NC1zZXR1cC5leGUKaW1JQW5qZHZEbHVzMHFsU09zNFV0ekU5T05ZNncwQlQzRDdBcUtNV0dSS3l4QVYweW9DaHkzZ28zeHhCU2s5VWRPREdCUGlQZTc4bmk1dytnTFlaRHc9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.1.5/KartCaster.2_2.1.5_x64-setup.exe"
     }
   }
 }
