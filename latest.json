@@ -1,11 +1,11 @@
 {
-  "version": "2.1.5",
-  "notes": "KartCaster 2.1.5 - Window capture survives mid-race title change; Remix portrait follows the speaker.",
-  "pub_date": "2026-09-04T23:16:08Z",
+  "version": "2.2.0",
+  "notes": "KartCaster 2.2.0 - Voicepack Cutter: paste a YouTube URL, cut WAVs, then drop them into Studio. Share and import narrator ZIPs.",
+  "pub_date": "2026-09-07T20:49:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDdUZDFqRHFINlk0TUVDWDJ5ejF6UndNcFZ3V2pwMHBrd3hSdUw4QTVUZkRIK08yMWtDTG5hd0ltYVFoVldSN1BBMTNnSlFMNHgzQU5zaXZkbHJmZWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTYzNzA2CWZpbGU6S2FydENhc3RlciAyXzIuMS41X3g2NC1zZXR1cC5leGUKaW1JQW5qZHZEbHVzMHFsU09zNFV0ekU5T05ZNncwQlQzRDdBcUtNV0dSS3l4QVYweW9DaHkzZ28zeHhCU2s5VWRPREdCUGlQZTc4bmk1dytnTFlaRHc9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.1.5/KartCaster.2_2.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZC9hUk1LMWx1TkhFaXA0dlVnMWFNTDUrRnBOTlg2NDYyZklLNWxhNWMrSWpwNW0xRnNUNlNxekh3eHJML2FEcG9rVVF1TlZiQ21CNit1bHdkWlNvbnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODE0MTQyCWZpbGU6S2FydENhc3RlciAyXzIuMi4wX3g2NC1zZXR1cC5leGUKK3lZT2hFa2IyZGFEdm9MWTRUVEVvTXNSeUtvaU9aOWNpZGszVGFoalZWSEFwaTlFUGdyZzBlMnhPZXJwVXRUY0tMMnNLRGRzakdWVS82OEQ4aDhJQVE9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.2.0/KartCaster.2_2.2.0_x64-setup.exe"
     }
   }
 }
