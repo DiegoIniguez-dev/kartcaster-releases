@@ -1,11 +1,11 @@
 {
-  "version": "2.2.1",
-  "notes": "KartCaster 2.2.1 - Teach calibrate works on 64-bit; first-run onboarding; START recovers to Teach; soft motion and compact UI.",
-  "pub_date": "2026-09-11T17:56:53Z",
+  "version": "2.2.2",
+  "notes": "KartCaster 2.2.2 - Onboarding tests capture with a clean preview; pick MK8/MKW or create another game in My Games.",
+  "pub_date": "2026-09-12T01:46:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDN0SG5Wc0xIM2NxdVVDYzUwSDdDbTNqUFRtS1Z4K2J3THZQMFRGakNQT0hoY0Vka2h5aEM3OFZxb2s4dUsrR3plNVY1a3EwZWtTWm51bUNiSS8rclE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQ5Mzc5CWZpbGU6S2FydENhc3RlciAyXzIuMi4xX3g2NC1zZXR1cC5leGUKRWVKL2dIZVhqS3VvVWNSYkpCQXdyV2xvODZRTyt6Zk8wMWlsT252bW50ckNrMFZUYjgzVmJCaDBtb3lWdzBKbE9pQjlrQlg5M3ROZ3QzVGhMOHc0Q3c9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.2.1/KartCaster.2_2.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDMzZWNvZXA4TmpEdzAvZjc5SnpEVDhGQ1IwdlduMDc0NzRsd0dWUU1nQ05ZM0V4VDRqdmFOY0RobWREUDRZbzl2V1M4c1gyQWhTZnRQMmtlVFdOWndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTc3NTQ2CWZpbGU6S2FydENhc3RlciAyXzIuMi4yX3g2NC1zZXR1cC5leGUKdTdzUEt6SmpVcmwzSGhPSUcxTDBSenkxZHpzQk4rdysyQS9nZVY2OGRIRXpmN1pDNmIyb2dXTkZtaExSZE5kbUR4NmVta1NHVG9UcDVjdC9EODJIRGc9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.2.2/KartCaster.2_2.2.2_x64-setup.exe"
     }
   }
 }
