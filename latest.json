@@ -1,11 +1,11 @@
 {
-  "version": "2.2.2",
-  "notes": "KartCaster 2.2.2 - Onboarding tests capture with a clean preview; pick MK8/MKW or create another game in My Games.",
-  "pub_date": "2026-09-12T01:46:06Z",
+  "version": "2.2.3",
+  "notes": "KartCaster 2.2.3 - Window capture Teach no longer crashes on some 64-bit PCs; Cutter can install Isolate voice (AI); Studio Add audio opens Cutter exports.",
+  "pub_date": "2026-09-15T22:26:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDMzZWNvZXA4TmpEdzAvZjc5SnpEVDhGQ1IwdlduMDc0NzRsd0dWUU1nQ05ZM0V4VDRqdmFOY0RobWREUDRZbzl2V1M4c1gyQWhTZnRQMmtlVFdOWndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTc3NTQ2CWZpbGU6S2FydENhc3RlciAyXzIuMi4yX3g2NC1zZXR1cC5leGUKdTdzUEt6SmpVcmwzSGhPSUcxTDBSenkxZHpzQk4rdysyQS9nZVY2OGRIRXpmN1pDNmIyb2dXTkZtaExSZE5kbUR4NmVta1NHVG9UcDVjdC9EODJIRGc9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.2.2/KartCaster.2_2.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZHhXWDR4SUxpaGd4YWxwckNCdHdGZ0lJNW5HaU9nRWUwV29GWG9SR0hTeFc2WHg1TTRCUTFDc3lyWVlDTlMxT2M2Z0dKRzBQLzVJOEZVcllmWGlYTkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTExMTM0CWZpbGU6S2FydENhc3RlciAyXzIuMi4zX3g2NC1zZXR1cC5leGUKeU9aUGxSUGxqWXhxRFY3YVpOeC9hTTk4ZWdPSTd1RmdYQjVRMFJ3QkdzRjVhT0wvbjNUODJ1ZnZPeUxUQ3ArNkRJY2Zlc2tsdkgvN0hkSCtmZG5WRFE9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.2.3/KartCaster.2_2.2.3_x64-setup.exe"
     }
   }
 }
