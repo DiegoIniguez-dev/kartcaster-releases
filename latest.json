@@ -1,11 +1,11 @@
 {
-  "version": "2.2.4",
-  "notes": "KartCaster 2.2.4 - Isolate voice (AI) install includes onnxruntime so isolation actually runs.",
-  "pub_date": "2026-09-16T21:31:22Z",
+  "version": "2.2.5",
+  "notes": "KartCaster 2.2.5 - Live commentary starts on PCs that crashed extracting Pillow AVIF.",
+  "pub_date": "2026-09-20T07:12:44Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZHdzcktUb0Yrb2VBVCt2MDl2QjZwRzhDMzdqVlBHSkFHSmE0LzJJQWVTL29yT3VBbFhHcE5zNHByYjZTRi9XNGdzNkl3VnpINTNaN0ZBckd1VWNDTndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTk0MjA4CWZpbGU6S2FydENhc3RlciAyXzIuMi40X3g2NC1zZXR1cC5leGUKMGZXNnFyVi9oQ1lVb0dKb3Qreko1M1pNOTdxTlJtdXNFTFI5K1pMQlFRYy9OUTBqVUpFMFpYZDh0ZGYwMWJjM3pmL0J0WjBJMGpNWVRteGs1NGxqQUE9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.2.4/KartCaster.2_2.2.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDY3OFFoR01Vc2k4emlLYWM3TmFhbVBIZXQ5L0ljSGNqV3ZvaHVoQXBlTm4vMUNtMUpackxidTRiR0ZTSFNIQUhiRUlTZ2RvOFBpMEo1NVZWU0daRXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODg4MjcyCWZpbGU6S2FydENhc3RlciAyXzIuMi41X3g2NC1zZXR1cC5leGUKaUw0TEltbllKVzR4MTNieW12U1ExQmUxUWJkaVZqWlBhdFR4QytxQlVWUUlFVFFVbWoxMm04b3V1b3hPNjhFUDErS1RDQk53OXliaUJrWHhEVWVmQlE9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.2.5/KartCaster.2_2.2.5_x64-setup.exe"
     }
   }
 }
