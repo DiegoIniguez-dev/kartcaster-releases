@@ -1,11 +1,11 @@
 {
-  "version": "2.2.5",
-  "notes": "KartCaster 2.2.5 - Live commentary starts on PCs that crashed extracting Pillow AVIF.",
-  "pub_date": "2026-09-20T07:12:44Z",
+  "version": "2.3.0",
+  "notes": "KartCaster 2.3.0 - Teach me tutorials and mood expression cap.",
+  "pub_date": "2026-09-22T23:09:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDY3OFFoR01Vc2k4emlLYWM3TmFhbVBIZXQ5L0ljSGNqV3ZvaHVoQXBlTm4vMUNtMUpackxidTRiR0ZTSFNIQUhiRUlTZ2RvOFBpMEo1NVZWU0daRXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODg4MjcyCWZpbGU6S2FydENhc3RlciAyXzIuMi41X3g2NC1zZXR1cC5leGUKaUw0TEltbllKVzR4MTNieW12U1ExQmUxUWJkaVZqWlBhdFR4QytxQlVWUUlFVFFVbWoxMm04b3V1b3hPNjhFUDErS1RDQk53OXliaUJrWHhEVWVmQlE9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.2.5/KartCaster.2_2.2.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZHpqd05MTWhENW43VXRwenF4TDVaa29aWml0L3hCK01WT0Q4dE9LZ0VoU0g4OUpIc0NsVDFIM1VMQ2tqd1poUCsyRFNkU0gyNzNXc3lWVVIydVZkSEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTE4NDAyCWZpbGU6S2FydENhc3RlciAyXzIuMy4wX3g2NC1zZXR1cC5leGUKanBidjRtV2MwbzVOWXYrSWJ1RzQ4WjdtMlhWSzRhZWMzajQydVBzWk9HcnphZm54cXV2cGczUTAyZFJIUGk5bDJNcEZJa1Z4RUJ4aWhSUitSWGRZQ2c9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.3.0/KartCaster.2_2.3.0_x64-setup.exe"
     }
   }
 }
