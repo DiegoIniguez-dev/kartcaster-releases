@@ -1,11 +1,11 @@
 {
-  "version": "2.3.0",
-  "notes": "KartCaster 2.3.0 - Teach me tutorials and mood expression cap.",
-  "pub_date": "2026-09-22T23:09:51Z",
+  "version": "2.4.0",
+  "notes": "KartCaster 2.4.0 - Dynamic music, OBS LIVE capture, and Halloween home.",
+  "pub_date": "2026-10-01T03:25:49Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZHpqd05MTWhENW43VXRwenF4TDVaa29aWml0L3hCK01WT0Q4dE9LZ0VoU0g4OUpIc0NsVDFIM1VMQ2tqd1poUCsyRFNkU0gyNzNXc3lWVVIydVZkSEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTE4NDAyCWZpbGU6S2FydENhc3RlciAyXzIuMy4wX3g2NC1zZXR1cC5leGUKanBidjRtV2MwbzVOWXYrSWJ1RzQ4WjdtMlhWSzRhZWMzajQydVBzWk9HcnphZm54cXV2cGczUTAyZFJIUGk5bDJNcEZJa1Z4RUJ4aWhSUitSWGRZQ2c9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.3.0/KartCaster.2_2.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZC8vZVZNWVVnZXJhRW54WTZCMVpWaTZzbWNHY29RRk9Fdml0RzRiMU5Vc2hoSTg2Skt2Z0xIZGVsMVdyc3NYaDdFbWxKeHh4Rk5TS0FpWDBLMnA4NHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODI1MDU3CWZpbGU6S2FydENhc3RlciAyXzIuNC4wX3g2NC1zZXR1cC5leGUKOVduSHloWU9aSDFuU3JIeDB2cnJDckUwZVVpa2xxV0ZFWFJkSXJRb01GMURiWjRSd0VBUTBBVHdSeXBvbmlrNzZkczBqS3A0bVFmTnZMU00rUmhSRFE9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.4.0/KartCaster.2_2.4.0_x64-setup.exe"
     }
   }
 }
