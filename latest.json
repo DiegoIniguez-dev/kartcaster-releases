@@ -1,11 +1,11 @@
 {
-  "version": "2.4.0",
-  "notes": "KartCaster 2.4.0 - Dynamic music, OBS LIVE capture, and Halloween home.",
-  "pub_date": "2026-10-01T03:25:49Z",
+  "version": "2.4.1",
+  "notes": "KartCaster 2.4.1 - On the podium the chosen window stays up and other apps dip. At the back of the pack that window dips and the others stay. Minimized players such as Spotify show in the list.",
+  "pub_date": "2026-10-04T20:50:53Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZC8vZVZNWVVnZXJhRW54WTZCMVpWaTZzbWNHY29RRk9Fdml0RzRiMU5Vc2hoSTg2Skt2Z0xIZGVsMVdyc3NYaDdFbWxKeHh4Rk5TS0FpWDBLMnA4NHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODI1MDU3CWZpbGU6S2FydENhc3RlciAyXzIuNC4wX3g2NC1zZXR1cC5leGUKOVduSHloWU9aSDFuU3JIeDB2cnJDckUwZVVpa2xxV0ZFWFJkSXJRb01GMURiWjRSd0VBUTBBVHdSeXBvbmlrNzZkczBqS3A0bVFmTnZMU00rUmhSRFE9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.4.0/KartCaster.2_2.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZHpveU5rcDJ4ODhiSys5ZTJ2emUyQlFsWVZobjhoWEJpQStzUGxxVDhaQ2VYRkZtNUZaZk96OGdFTnJxMm53eXl2ZDJQbFA2VlVDTjB4Uk96bUI0WmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTQ2OTU1CWZpbGU6S2FydENhc3RlciAyXzIuNC4xX3g2NC1zZXR1cC5leGUKSFFObERRck1rRUhqUmhoeWtzUHZrdDNJcHlGYWUwTU1mdHpFQjlXOU9WMXZ6SmkvUXRNcGVyOEZhZkhXNUZDdUhzbXJWNEJ4M3B1R3ZQV3ByYzk3Q0E9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.4.1/KartCaster.2_2.4.1_x64-setup.exe"
     }
   }
 }
