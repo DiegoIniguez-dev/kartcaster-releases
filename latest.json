@@ -1,11 +1,11 @@
 {
-  "version": "2.4.1",
-  "notes": "KartCaster 2.4.1 - On the podium the chosen window stays up and other apps dip. At the back of the pack that window dips and the others stay. Minimized players such as Spotify show in the list.",
-  "pub_date": "2026-10-04T20:50:53Z",
+  "version": "2.4.2",
+  "notes": "KartCaster 2.4.2 - The chosen music window stays up on the podium, including when playback is a helper process. At the back of the pack that window dips. Audio-driver sliders are left alone.",
+  "pub_date": "2026-10-06T04:08:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZHpveU5rcDJ4ODhiSys5ZTJ2emUyQlFsWVZobjhoWEJpQStzUGxxVDhaQ2VYRkZtNUZaZk96OGdFTnJxMm53eXl2ZDJQbFA2VlVDTjB4Uk96bUI0WmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTQ2OTU1CWZpbGU6S2FydENhc3RlciAyXzIuNC4xX3g2NC1zZXR1cC5leGUKSFFObERRck1rRUhqUmhoeWtzUHZrdDNJcHlGYWUwTU1mdHpFQjlXOU9WMXZ6SmkvUXRNcGVyOEZhZkhXNUZDdUhzbXJWNEJ4M3B1R3ZQV3ByYzk3Q0E9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.4.1/KartCaster.2_2.4.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDU1SDY5S0xjR0lZbTlSbVRUQXVjTitSem13TzJzQlNqNTE2YjhtOEk3YXBRaC8yRGRVRmZmazN3Z25VRU5tUUFRM2xmUHBhdkZKUE4xek9iVDBta0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjU5NjQ2CWZpbGU6S2FydENhc3RlciAyXzIuNC4yX3g2NC1zZXR1cC5leGUKdFdUcVpzbmhFeFZKYlVaUXJxLzZYRG54TWl6cnV2eVNocGl4SXFWbitwT3Q2MnhKV1NPZkhVQW03ZWhEVDZ1VkV0MmE3amJ5UWZMVEZWV3hlNnp5QkE9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.4.2/KartCaster.2_2.4.2_x64-setup.exe"
     }
   }
 }
