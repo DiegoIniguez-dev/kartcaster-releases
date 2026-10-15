@@ -1,11 +1,11 @@
 {
-  "version": "2.4.2",
-  "notes": "KartCaster 2.4.2 - The chosen music window stays up on the podium, including when playback is a helper process. At the back of the pack that window dips. Audio-driver sliders are left alone.",
-  "pub_date": "2026-10-06T04:08:52Z",
+  "version": "2.4.4",
+  "notes": "KartCaster 2.4.4 - Halloween assets now ship in the install (ambient, jumpscares, props). Ambient sound retries when the narrator is talking. Scares a bit less rare during a race night.",
+  "pub_date": "2026-10-15T06:44:34Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDU1SDY5S0xjR0lZbTlSbVRUQXVjTitSem13TzJzQlNqNTE2YjhtOEk3YXBRaC8yRGRVRmZmazN3Z25VRU5tUUFRM2xmUHBhdkZKUE4xek9iVDBta0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjU5NjQ2CWZpbGU6S2FydENhc3RlciAyXzIuNC4yX3g2NC1zZXR1cC5leGUKdFdUcVpzbmhFeFZKYlVaUXJxLzZYRG54TWl6cnV2eVNocGl4SXFWbitwT3Q2MnhKV1NPZkhVQW03ZWhEVDZ1VkV0MmE3amJ5UWZMVEZWV3hlNnp5QkE9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.4.2/KartCaster.2_2.4.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDJhbjVLdGlLTXlqcDB1QTc1cUduRlpHWm1XS2ovSk05clN4OWZDc0ZTQ2tmQUsvaHRvWFo4R0tqZjBkT0tMM2dGcXZIajZBdzA2a0duMHFjTHZoNFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDQ2NTk3CWZpbGU6S2FydENhc3RlciAyXzIuNC40X3g2NC1zZXR1cC5leGUKcDlKR1J4UjNmdGc2a29VUmtiVVgvVHFtb3laMWhya2tBY1RKOStmSS9uU1V5WXRKSElFbjFyS1BqdndCYlpmaWg4bVd4SVVBcUtrNFlTTWpPQmJaQlE9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.4.4/KartCaster.2_2.4.4_x64-setup.exe"
     }
   }
 }
