@@ -1,11 +1,11 @@
 {
-  "version": "2.4.4",
-  "notes": "KartCaster 2.4.4 - Halloween assets now ship in the install (ambient, jumpscares, props). Ambient sound retries when the narrator is talking. Scares a bit less rare during a race night.",
-  "pub_date": "2026-10-15T06:44:34Z",
+  "version": "2.5.1",
+  "notes": "KartCaster 2.5.1 - New LIVE window for a capture card or monitor (F11 fullscreen, click-through overlay on a game window). Optional Pixoo 64 panel, off by default. Party voice: lower latency, 48 kHz playout, up to 6 voices, and a version handshake (update Party to keep talking).",
+  "pub_date": "2026-10-23T20:39:45Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDJhbjVLdGlLTXlqcDB1QTc1cUduRlpHWm1XS2ovSk05clN4OWZDc0ZTQ2tmQUsvaHRvWFo4R0tqZjBkT0tMM2dGcXZIajZBdzA2a0duMHFjTHZoNFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDQ2NTk3CWZpbGU6S2FydENhc3RlciAyXzIuNC40X3g2NC1zZXR1cC5leGUKcDlKR1J4UjNmdGc2a29VUmtiVVgvVHFtb3laMWhya2tBY1RKOStmSS9uU1V5WXRKSElFbjFyS1BqdndCYlpmaWg4bVd4SVVBcUtrNFlTTWpPQmJaQlE9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.4.4/KartCaster.2_2.4.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDlaK1FWSHFQY2d0WVUyazlMc1ZMSnI3elFkeW5VRzlGUXpPUTdHNFUxL1lOZ0MzZ1cwamJmVFZNaVIvMUtudVpQcTNWVlRCRy92SXVCMWYrclFRSGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzg3OTA2CWZpbGU6S2FydENhc3RlciAyXzIuNS4xX3g2NC1zZXR1cC5leGUKU1BNZVlMWkN5Z0JGNHhwcHJoSTFnbGhwb3l5M0NJVGNKRUVxc29uYU51UG9PVUdsSm5qZEk1cGZUTkFhSlN0TjNPTkI1elhSMXphcEpaSHBBUStDQnc9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.5.1/KartCaster.2_2.5.1_x64-setup.exe"
     }
   }
 }
