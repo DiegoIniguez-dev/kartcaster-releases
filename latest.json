@@ -1,11 +1,11 @@
 {
-  "version": "2.5.1",
-  "notes": "KartCaster 2.5.1 - New LIVE window for a capture card or monitor (F11 fullscreen, click-through overlay on a game window). Optional Pixoo 64 panel, off by default. Party voice: lower latency, 48 kHz playout, up to 6 voices, and a version handshake (update Party to keep talking).",
-  "pub_date": "2026-10-23T20:39:45Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDlaK1FWSHFQY2d0WVUyazlMc1ZMSnI3elFkeW5VRzlGUXpPUTdHNFUxL1lOZ0MzZ1cwamJmVFZNaVIvMUtudVpQcTNWVlRCRy92SXVCMWYrclFRSGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzg3OTA2CWZpbGU6S2FydENhc3RlciAyXzIuNS4xX3g2NC1zZXR1cC5leGUKU1BNZVlMWkN5Z0JGNHhwcHJoSTFnbGhwb3l5M0NJVGNKRUVxc29uYU51UG9PVUdsSm5qZEk1cGZUTkFhSlN0TjNPTkI1elhSMXphcEpaSHBBUStDQnc9PQo=",
-      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.5.1/KartCaster.2_2.5.1_x64-setup.exe"
-    }
-  }
+    "version":  "2.5.2",
+    "notes":  "KartCaster 2.5.2 - Party: arreglado audio que no se escuchaba con algunos audífonos (salida WDM-KS) y micrófono que dejaba de enviar tras reconectar.",
+    "pub_date":  "2026-10-24T03:29:46Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDdaUmpiUHlMZks4TG5pRkh2WVFTWHhyY0lMNW9zMkdOQm1oNTZ2bVQzWS9LcmpNbHl2SEZ2emlVbnZaYVZqK2c0SGJJVTNhU1BHTFdRMXJiUkdBV3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODEyNTA0CWZpbGU6S2FydENhc3RlciAyXzIuNS4yX3g2NC1zZXR1cC5leGUKdE10UU9GMkZLNGNDQ0hpNFVCN1NTdjBueW1mSnlDVkRBL2JaTzVOUmQxWUJEVmpkcE02VzVqMllzNW9PKzNMRTl1eVF6UXRwQWlTRmhuNTJYRWdIQmc9PQo=",
+                                             "url":  "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.5.2/KartCaster.2_2.5.2_x64-setup.exe"
+                                         }
+                  }
 }
