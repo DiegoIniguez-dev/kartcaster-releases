@@ -1,11 +1,11 @@
 {
-    "version":  "2.5.3",
-    "notes":  "KartCaster 2.5.3 - Party: arreglado fallo de bocina al conectar. Nueva opción: Ventana LIVE clásica (compatibilidad) para Wine/Linux, desactivada por defecto.",
-    "pub_date":  "2026-10-26T21:16:25Z",
+    "version":  "2.5.4",
+    "notes":  "KartCaster 2.5.4 - Overlay en ventana más ligero y Modo rendimiento opcional para PCs más modestas. El retrato del narrador ahora vibra al perder el podio o al caer.",
+    "pub_date":  "2026-10-26T23:17:41Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDhHbDlqeUFGc2pua2lSWEdiRkFJOFlrcDc4TG5WaHhmVGxadjY4Vkd1WlBtK2MxNjA4N0FUeWV3UmFCdWZxcDkxVTI4ZEQyY09zbmNrbDgyYXM4OFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ5MzIzCWZpbGU6S2FydENhc3RlciAyXzIuNS4zX3g2NC1zZXR1cC5leGUKQytuS0h0MUsydjdlNnZIcEtKTllxYXdaMFVaL3NmcE16ZDVKcW9CUjBJNE1OdVdGRUVnb3dGaitHTmhxRjVGdHhURFpQUXZEYnk0RHd6SnhPZG9CQlE9PQo=",
-                                             "url":  "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.5.3/KartCaster.2_2.5.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDVWa3dwZnlXT1J1TWdMTFIrOEJlbi9MNFRNc0w4SnNZTG1GV2I3bWlDU1ZNVXNReTNIWkFhSXdYV0RNUE9nTW9MdHFDTUZ6TWRUZ3UvWkc1SWQ0NXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDU2NTY0CWZpbGU6S2FydENhc3RlciAyXzIuNS40X3g2NC1zZXR1cC5leGUKRndWTjNaVlExRDVJblM5U2RLUzlSTDJCSk5oVDhockQxdXd1aTdCTE5YNmMyUVJHWi9IMzdOY1hqZ0dOY2R5ZmZBcmJzWmhIZ0xLdGJMWHRFcERpQ2c9PQo=",
+                                             "url":  "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.5.4/KartCaster.2_2.5.4_x64-setup.exe"
                                          }
                   }
 }
