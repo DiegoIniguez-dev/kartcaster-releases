@@ -1,11 +1,11 @@
 {
-    "version":  "2.5.5",
-    "notes":  "KartCaster 2.5.5 - Arreglo de la posición en carrera: la captura de ventana regresa al método de la 2.5.3; la captura gráfica nueva queda como opción experimental.",
-    "pub_date":  "2026-10-27T04:31:45Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZHoyUElFQ2tzVVlXdDdKa3hESGhsK2txbGpzOGJxVk9CSEwxOExkaHovdnlrcUdNMmtkb0hOUytlVmU0YldKVThhMUlhVENyQ2dZWVNtUjQ3c2F5NndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDc1MTM5CWZpbGU6S2FydENhc3RlciAyXzIuNS41X3g2NC1zZXR1cC5leGUKcHhLaVh0aTBhQkNFaTFJSjhwSDNPc3Y1RzloTXpiZlYyUjJvUzJGTWJDM2JmUU5WU2ZzSDhISTJGU2paRTJpWjJrcjdZVi9aeFBQTStoVEhSeTVSQkE9PQo=",
-                                             "url":  "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.5.5/KartCaster.2_2.5.5_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.5.6",
+  "notes": "KartCaster 2.5.6 \u2014 Clips autom\u00e1ticos opcionales de unos 20 s a 1080p30 con el sonido de reproducci\u00f3n del PC. Halloween solo del 1 de octubre al 2 de noviembre. Pixoo se mantiene. La ventana LIVE es solo video: para o\u00edr el juego, el audio de la captura debe estar ya monitoreado hacia el dispositivo de reproducci\u00f3n. Firma del actualizador (no Authenticode).",
+  "pub_date": "2026-11-10T02:02:59Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ0p2SlVOUDhHZDNpZjNEUk9EMWNWM0wwNGk4ckpJVkxSWmtpeVZVYit3OUVISUlZNEF1cEI1TzVRTUNSem5XcVlKSUkxMVhJSThTbEZaMEpqenE1dkZLc3VBN0pGRFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjc1ODIxCWZpbGU6S2FydENhc3RlciAyXzIuNS42X3g2NC1zZXR1cC5leGUKeldSUnNUZFY4UlVzV1F1RkhOQWpVRXVNWStJZzhibjNLbG1MTkdyVWxEUnhzblFBVW5HbTRtVTNPWVYxRnVUV09aOXZtVWthTjJXRFJ2cTVlcThrQXc9PQo=",
+      "url": "https://github.com/DiegoIniguez-dev/kartcaster-releases/releases/download/v2.5.6/KartCaster.2_2.5.6_x64-setup.exe"
+    }
+  }
 }
